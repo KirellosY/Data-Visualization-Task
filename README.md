@@ -2,7 +2,7 @@
 This repository contains Airline_Passenger_Satisfaction dataset and my notebook
 
 ## 📂 File Information  
-- *Notebook:* Data-Visualization-Notebook.zip (Compressed due to file size limit)  
+- *Notebook:* Airline_Passenger_Satisfaction.zip (Compressed due to file size limit)  
 - *Size:* 69.1 MB  
 
 ## 📥 How to Use  
